@@ -1,0 +1,41 @@
+질문: (1). MBTI Test: Share your 4-letter personality type (e.g., INTJ, ENFP). (2)Self-Reflection: What were the top 1-2 factors in choosing your major? (e.g., aptitude, career outlook). (3) Correlation Check: How does your MBTI type align with your major and influence your learning style? (4)Research & Data Collection:
+
+다음 질문에 대한 답변은 다음과 같다.  
+
+1. Name: <Pottete, Venkata Divya> : (1) MBTI: ENFJ-A (Protagonist) , (2) Self-Reflection: My interest/experience in programming throughout high school & future job opportunities are the 2 factors that influenced to chose a Data Science major.
+(3) Correlation Check: Even though my MBTI type doesn't directly align with my major as it is suggesting me career paths like human resources and teacher/counselor, being intuitive is necessary in my major to create data driven solutions and programs, and being extraverted helps with learning from others and their experience (such as networking, etc). , (4) Research & Data Collection:
+a) https://www.kaggle.com/datasets/colabsss/psychological-and-iot-behavioral-indicators
+, b) https://www.kaggle.com/datasets/adilshamim8/ai-based-career-recommendation-system
+, c) https://www.kaggle.com/datasets/utkarshshrivastav07/career-prediction-dataset
+, d) https://www.kaggle.com/datasets/adilshamim8/education-and-career-success
+, e) Study: https://psychosocial.com/index.php/ijpr/article/download/645/574/1146
+
+2. Name: <Lobo, Ruben> : (1) MBTI: INTJ (Architect), (2) Self-Reflection: I enjoyed working with computers from a young age and spent a lot of time on them. My dad also works in IT, so I knew I could ask him for help if needed., (3) INTJ types are very curious and value creative ingenuity. As a computer science student, it is essential to be curious to learn how to solve problems better and creativity is important to be able to find other solutions in the computer science field. (4) Research & Data Collection (Sources) :
+a) https://pubmed.ncbi.nlm.nih.gov/38391492/
+, b) https://dr.lib.iastate.edu/handle/20.500.12876/29594
+, c) https://digitalcommons.georgefox.edu/cgi/viewcontent.cgi?article=1004&context=dbadmin
+, d) https://www.kaggle.com/datasets/utkarshshrivastav07/career-prediction-dataset
+, e) https://www.kaggle.com/datasets/aryan208/student-habits-and-academic-performance-dataset
+
+3. Name: <Almansoori, Ahmed Sari> : (1) MBTI: INFJ-T, (2) Self-Reflection: I took AP CS, and after that class I became interested in majoring in CS. I also realized that I’ve always wanted to work in tech and studying cs felt like the best way to pursue that interest. (3) Correlation Check: INFJ (Advocate) is a personality type with the Introverted, Intuitive, Feeling, and Judging traits. They tend to approach life with deep thoughtfulness and imagination.
+CS often requires creative problem solving, abstract thinking, and imagining how systems work, which fits well with the INFJ trait of imagination and intuition. (4) Research & Data Collection (Sources):
+a) https://journals.sagepub.com/doi/pdf/10.1177/1069072703011002006
+, b) https://www.kaggle.com/datasets/robiulhasanjisan/university-student-performance-and-habits-dataset
+, c) https://www.kaggle.com/datasets/stealthtechnologies/predict-people-personality-types
+, d) https://www.kaggle.com/datasets/datasnaek/mbti-type
+, e) https://www.kaggle.com/datasets/utkarshshrivastav07/career-prediction-dataset
+, f) https://dl.acm.org/doi/10.1007/s11227-023-05447-1
+, g) https://www.sciencedirect.com/science/article/pii/S0191886915002937 
+
+4. Name: <Riggle, Daniel>: (1) MBTI: ISTJ-A, (2) Self-Reflection: The interest in computers and what you can do with them. I took a computer science class every year in high school and enjoyed them. (3) Correlation Check: My personality type is more problem-solving and individuality, and more organized. (4) Research & Data Collection (Sources):
+a) https://www.kaggle.com/code/khotijahs1/big-five-personality-test-clustering
+,b) https://pmc.ncbi.nlm.nih.gov/articles/PMC6671867/
+, c) https://cupola.gettysburg.edu/cgi/viewcontent.cgi?article=1677&context=student_scholarship
+, d) https://www.kaggle.com/code/ihsncnkz/recommendation-system-with-knn
+, e) https://www.kaggle.com/datasets/adilshamim8/education-and-career-success
+
+5. Name: <Moudgil, Shubhra> : (1) MBTI: ENTJ-T, (2) Self-Reflection: The top factors in choosing my major of Computer Science was the ability to apply it within any field of my liking. As a person with many interests, it was hard to figure out what to major in. I was pretty good at math and science in high school, and even though Computer Science didn't come to me easily, the difficulty/rigor of this major made me want to pursue it. I want to be able to graduate college knowing I was challenged and received a valuable degree. Computer Science is a major which circled all my likings in terms of rigor, scalability, and creativity. (3) Correlation Check: My MBTI type, ENTJ-T, aligns well with my major in Computer Science because ENTJs are known for strategic thinking and problem-solving. Computer science requires logical reasoning and breaking complex problems into structured steps, which fits well with this personality type. ENTJs also tend to focus on efficiency and long-term goals, which is useful when designing systems or solving technical challenges. In terms of learning style, I prefer understanding the big picture and applying concepts to real problems rather than just memorizing information. This makes computer science engaging because it constantly challenges me to think critically and build practical solutions. (4) Research & Data Collection (Sources): a) https://www.sciencedirect.com/science/article/pii/S0191886915300921
+, b) https://hrmars.com/papers_submitted/26305/the-impact-of-the-big-five-personality-traits-on-college-students-career-choice-commitment-a-case-study-of-wuyi-university.pdf
+, c) https://pmc.ncbi.nlm.nih.gov/articles/PMC11334364/
+, d) https://www.kaggle.com/datasets/ayeshaseherr/student-performance
+, e) https://www.kaggle.com/datasets/afnansaifafnan/study-habits-and-activities-of-students

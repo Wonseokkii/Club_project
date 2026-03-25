@@ -1,0 +1,54 @@
+<Unique Resource Files> 
+(1) https://cupola.gettysburg.edu/cgi/viewcontent.cgi?article=1677&context=student_scholarship
+, (2) https://digitalcommons.georgefox.edu/cgi/viewcontent.cgi?article=1004&context=dbadmin
+, (3) https://dr.lib.iastate.edu/server/api/core/bitstreams/5ac234b1-eedc-4b75-870f-198af8bce138/content 
+, (4) https://hrmars.com/papers_submitted/26305/the-impact-of-the-big-five-personality-traits-on-college-students-career-choice-commitment-a-case-study-of-wuyi-university.pdf
+, (5) https://journals.sagepub.com/doi/pdf/10.1177/1069072703011002006
+, (6) https://pmc.ncbi.nlm.nih.gov/articles/PMC11334364/
+, (7) https://pmc.ncbi.nlm.nih.gov/articles/PMC6671867/
+, (8) https://psychosocial.com/index.php/ijpr/article/download/645/574/1146
+, (9) https://www.sciencedirect.com/science/article/pii/S0191886915002937
+, (10) https://www.sciencedirect.com/science/article/pii/S0191886915300921
+, (11) https://ieeexplore.ieee.org/abstract/document/8285560
+
+
+
+<Kaggle_KNN related data>
+(1) https://www.kaggle.com/code/ihsncnkz/recommendation-system-with-knn
+
+<Kaggle_Big Five Personality Test + Clustering>
+(1) https://www.kaggle.com/code/khotijahs1/big-five-personality-test-clustering
+
+<Kaggle_AI-based Career Recommendation System> 
+(1) https://www.kaggle.com/datasets/adilshamim8/ai-based-career-recommendation-system
+
+<Kaggle_Education & Career Success>
+(1) https://www.kaggle.com/datasets/adilshamim8/education-and-career-success
+
+<Kaggle_Study Habits and Activities (Academic Performance) of Students> 
+(1) https://www.kaggle.com/datasets/afnansaifafnan/study-habits-and-activities-of-students/data
+, (2) https://www.kaggle.com/datasets/aryan208/student-habits-and-academic-performance-dataset
+, (3) https://www.kaggle.com/datasets/ayeshaseherr/student-performance 
+, (4) https://www.kaggle.com/datasets/colabsss/psychological-and-iot-behavioral-indicators
+, (5) https://www.kaggle.com/datasets/robiulhasanjisan/university-student-performance-and-habits-dataset
+
+<Kaggle_MBTI (Myers-Briggs Personality Type) Dataset>
+(1) https://www.kaggle.com/datasets/datasnaek/mbti-type
+
+<Kaggle_Predict People Personality Types> 
+(1) https://www.kaggle.com/datasets/stealthtechnologies/predict-people-personality-types
+
+<Kaggle_OCEAN Test_Career Prediction Dataset>
+(1) https://www.kaggle.com/datasets/utkarshshrivastav07/career-prediction-dataset
+ 
+
+
+
+
+
+<No needed>
+(1) https://pubmed.ncbi.nlm.nih.gov/38391492/
+, (2) https://dl.acm.org/doi/10.1007/s11227-023-05447-1
+
+
+
